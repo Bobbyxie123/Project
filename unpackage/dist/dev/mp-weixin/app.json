@@ -1,0 +1,44 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/reg/reg",
+    "pages/cal/cal",
+    "pages/us/us"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#333",
+    "list": [
+      {
+        "text": "main",
+        "pagePath": "pages/index/index",
+        "iconPath": "static/tabbar/home.png",
+        "selectedIconPath": "static/tabbar/home-h.png"
+      },
+      {
+        "text": "reg",
+        "pagePath": "pages/reg/reg",
+        "iconPath": "static/tabbar/list.png",
+        "selectedIconPath": "static/tabbar/list-h.png"
+      },
+      {
+        "text": "cal",
+        "pagePath": "pages/cal/cal",
+        "iconPath": "static/tabbar/list.png",
+        "selectedIconPath": "static/tabbar/list-h.png"
+      },
+      {
+        "text": "us",
+        "pagePath": "pages/us/us",
+        "iconPath": "static/tabbar/user.png",
+        "selectedIconPath": "static/tabbar/user-h.png"
+      }
+    ]
+  },
+  "usingComponents": {}
+}
