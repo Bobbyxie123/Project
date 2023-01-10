@@ -10,6 +10,9 @@ This tab is the booking page, users can see all group tours or activity here, an
 this tab is for our employee login, we can track who buy the tickey and all  detail
 ![image](https://github.com/Bobbyxie123/Project/blob/main/static/img/3.jpg)
 
+we can check all the order from our cart 
+![image](https://github.com/Bobbyxie123/Project/blob/main/static/img/6.jpg)
+
 this tab is our personal infomation, we can register and login. also we can track our order, and we can contact with the customer service staff 
 ![image](https://github.com/Bobbyxie123/Project/blob/main/static/img/4.jpg)
 
@@ -18,8 +21,7 @@ we can save the item into our cart and pay for it.
 
 ![image](https://github.com/Bobbyxie123/Project/blob/main/static/img/5.jpg)
 
-we can check all the order from our cart 
-![image](https://github.com/Bobbyxie123/Project/blob/main/static/img/6.jpg)
+
 
 also can make the modification in our personal information 
 ![image](https://github.com/Bobbyxie123/Project/blob/main/static/img/7.jpg)
